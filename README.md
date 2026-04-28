@@ -1,8 +1,6 @@
 # [Meta Quest Head Tracking App](https://github.com/Mohammad-Elahi/Meta-Quest-Head-Tracking-App)
 ![Head Tracking](https://github.com/Mohammad-Elahi/Meta-Quest-Head-Tracking-App/assets/93424032/9201989b-c155-4892-95e6-50cbdd64b1f3)
 
-## 🚀 New Version & Meta Store Availability
-
 A newer and enhanced version is now available:
 
 - **XR Head Tracker Pro** — [GitHub Repository](https://github.com/Mohammad-Elahi/MetaQuest_XRHeadTracker_Pro)  
