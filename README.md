@@ -1,5 +1,5 @@
 # [Meta Quest Head Tracking App](https://github.com/Mohammad-Elahi/Meta-Quest-Head-Tracking-App)
-![Head Tracking](https://github.com/Mohammad-Elahi/Meta-Quest-Head-Tracking-App/assets/93424032/9201989b-c155-4892-95e6-50cbdd64b1f3)
+<img src="https://github.com/Mohammad-Elahi/Meta-Quest-Head-Tracking-App/assets/93424032/9201989b-c155-4892-95e6-50cbdd64b1f3" alt="Head Tracking" width="400">
 
 A newer and enhanced version is now available:
 
